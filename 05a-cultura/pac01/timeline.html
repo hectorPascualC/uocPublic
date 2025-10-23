@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8" />
+  <title>Timeline Netscape Navigator</title>
+  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css" />
+</head>
+<body>
+  <div id="timeline-embed" style="width: 100%; height: 600px"></div>
+  <script>
+    var options = { language: 'ca', initial_zoom: 3 };
+    window.timeline = new TL.Timeline(
+      'timeline-embed',
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQSUvUWmHqCkQxyn9kIimdg-XePnn2rrgVWitzgmcBSMR_lJY651h-0NH6TETecSd4_Wak8KChKXlL_/pubhtml?gid=0&single=true',
+      options
+    );
+  </script>
+</body>
+</html>
