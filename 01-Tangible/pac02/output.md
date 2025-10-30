@@ -1,7 +1,7 @@
-18:01:49.677 -> Calculant temperatura base inicial...
-18:01:54.712 -> Temperatura base: 31.90 °C
-18:01:54.745 -> ---------------------------
-18:01:54.779 -> Sim: 31.90 °C | Diff: 0.00 °C | Nivell: 0
+18:01:49.677 -> Calculant temperatura base inicial...  
+18:01:54.712 -> Temperatura base: 31.90 °C  
+18:01:54.745 -> ---------------------------  
+18:01:54.779 -> Sim: 31.90 °C | Diff: 0.00 °C | Nivell: 0  
 18:01:54.944 -> Sim: 31.90 °C | Diff: 0.00 °C | Nivell: 0
 18:01:55.143 -> Sim: 31.90 °C | Diff: 0.00 °C | Nivell: 0
 18:01:55.375 -> Sim: 31.90 °C | Diff: 0.00 °C | Nivell: 0
