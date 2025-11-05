@@ -65,7 +65,3 @@
 | ✈️ **Traveller**             | Explica la seva experiència com a passatger afectat.     | 150–200              |
 | 💻 **IT expert**             | Analitza la causa i la solució tècnica.                  | 150–200              |
 | 🗣️ **Airport spokesperson** | Dona el punt de vista oficial i les accions preses.      | 150–200              |
-
----
-
-Vols que t’ho exporti en format **Word (.docx)** amb les caselles de ✔/☐ per poder-lo compartir al vostre *Group Drive* i anar-ho marcant com a pla de treball del grup?
