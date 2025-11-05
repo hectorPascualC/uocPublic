@@ -20,10 +20,10 @@
 
 | ✅ | Tasca                                                                    | Responsable             | Lloc   | Notes                                                                                                |
 | - | ------------------------------------------------------------------------ | ----------------------- | ------ | ---------------------------------------------------------------------------------------------------- |
-| ☐ | Escriure introducció general de la notícia (150–200 paraules)            | **Héctor (Journalist)** | GDrive | Obre la història amb el què, on, quan, i per què. Usa connectors com *at first, later, meanwhile...* |
-| ☐ | Escriure punt de vista del viatger (traveller)                           | Company/a 1             | GDrive | Explicar com ha afectat la fallada: vols cancel·lats, cues, frustració...                            |
+| ✅ | Escriure introducció general de la notícia (150–200 paraules)            | **Héctor (Journalist)** | GDrive | Obre la història amb el què, on, quan, i per què. Usa connectors com *at first, later, meanwhile...* |
+| ✅ | Escriure punt de vista del viatger (traveller)                           | Company/a 1             | GDrive | Explicar com ha afectat la fallada: vols cancel·lats, cues, frustració...                            |
 | ☐ | Escriure punt de vista de l’expert informàtic (IT expert)                | Company/a 2             | GDrive | Donar explicacions tècniques, possibles causes, durada prevista.                                     |
-| ☐ | Escriure punt de vista del portaveu de l’aeroport (airport spokesperson) | Company/a 3             | GDrive | Comunicat oficial, disculpes, mesures adoptades.                                                     |
+| ✅ | Escriure punt de vista del portaveu de l’aeroport (airport spokesperson) | Company/a 3             | GDrive | Comunicat oficial, disculpes, mesures adoptades.                                                     |
 | ☐ | Llegir tota la història i comprovar coherència entre parts               | Tot el grup             | GDrive | Revisar que els fets i temps verbals coincideixin.                                                   |
 
 ---
