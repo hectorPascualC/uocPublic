@@ -53,7 +53,7 @@
 
 | ✅ | Tasca                                           | Responsable | Lloc         | Notes                                                                   |
 | - | ----------------------------------------------- | ----------- | ------------ | ----------------------------------------------------------------------- |
-| ☐ | Llegir i comentar dues històries d’altres grups | Tot el grup | Task 4.1 CA4 | Escriure comentaris constructius (What you liked / What could improve). |
+| ✅ | Llegir i comentar dues històries d’altres grups | Tot el grup | Task 4.1 CA4 | Escriure comentaris constructius (What you liked / What could improve). |
 
 ---
 
