@@ -34,7 +34,7 @@
 | - | ------------------------------------------------------- | ---------------- | ------------------- | ----------------------------------------------------------------------------- |
 | ✅ | Donar feedback als companys (comentaris i suggeriments) | Tots             | GDrive (comentaris) | No editar textos directament. Recomanar connectors, paraules i temps verbals. |
 | ✅ | Avisar el professor que el draft està llest             | **Spokesperson** | Group space         | Quan tots hagin escrit i revisat.                                             |
-| ☐ | Incorporar feedback del professor i fer millores finals | Tot el grup      | GDrive              | Revisar cohesió i estil periodístic.                                          |
+| 🚫 | Incorporar feedback del professor i fer millores finals | Tot el grup      | GDrive              | Revisar cohesió i estil periodístic.                                          |
 
 ---
 
@@ -42,14 +42,14 @@
 
 | ✅ | Tasca                                                 | Responsable               | Lloc                     | Notes                                     |
 | - | ----------------------------------------------------- | ------------------------- | ------------------------ | ----------------------------------------- |
-| ☐ | Fer la versió final del text (600–800 paraules total) | Tot el grup               | GDrive                   | Copiar el text complet a un document net. |
-| ☐ | Publicar el text final al fòrum *Task 4.1 CA4*        | **Spokesperson**          | Classroom                | Publicar la història acabada.             |
-| ☐ | Enviar la història final (PDF o Word)                 | **Cadascun dels membres** | *CA4 Writing submission* | 🔴 Si no l’entregues → nota = 0.          |
-| ☐ | Omplir el **CA4 Group Work Report**                   | Tot el grup               | DOCX                     | Escriure què ha fet cadascú (amb dates).  |
+| ✅ | Fer la versió final del text (600–800 paraules total) | Tot el grup               | GDrive                   | Copiar el text complet a un document net. |
+| ✅ | Publicar el text final al fòrum *Task 4.1 CA4*        | **Spokesperson**          | Classroom                | Publicar la història acabada.             |
+| ✅ | Enviar la història final (PDF o Word)                 | **Cadascun dels membres** | *CA4 Writing submission* | 🔴 Si no l’entregues → nota = 0.          |
+| ✅ | Omplir el **CA4 Group Work Report**                   | Tot el grup               | DOCX                     | Escriure què ha fet cadascú (amb dates).  |
 
 ---
 
-## 💬 **Fase 5 — Post-task (7–9 NOV)**
+## 💬 **Fase 5 — Post-task (?? NOV)**
 
 | ✅ | Tasca                                           | Responsable | Lloc         | Notes                                                                   |
 | - | ----------------------------------------------- | ----------- | ------------ | ----------------------------------------------------------------------- |
