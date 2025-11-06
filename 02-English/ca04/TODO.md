@@ -24,7 +24,7 @@
 | ✅ | Escriure punt de vista del viatger (traveller)                           | Company/a 1             | GDrive | Explicar com ha afectat la fallada: vols cancel·lats, cues, frustració...                            |
 | ✅ | Escriure punt de vista de l’expert informàtic (IT expert)                | Company/a 2             | GDrive | Donar explicacions tècniques, possibles causes, durada prevista.                                     |
 | ✅ | Escriure punt de vista del portaveu de l’aeroport (airport spokesperson) | Company/a 3             | GDrive | Comunicat oficial, disculpes, mesures adoptades.                                                     |
-| ☐ | Llegir tota la història i comprovar coherència entre parts               | Tot el grup             | GDrive | Revisar que els fets i temps verbals coincideixin.                                                   |
+| ✅ | Llegir tota la història i comprovar coherència entre parts               | Tot el grup             | GDrive | Revisar que els fets i temps verbals coincideixin.                                                   |
 
 ---
 
@@ -32,8 +32,8 @@
 
 | ✅ | Tasca                                                   | Responsable      | Lloc                | Notes                                                                         |
 | - | ------------------------------------------------------- | ---------------- | ------------------- | ----------------------------------------------------------------------------- |
-| ☐ | Donar feedback als companys (comentaris i suggeriments) | Tots             | GDrive (comentaris) | No editar textos directament. Recomanar connectors, paraules i temps verbals. |
-| ☐ | Avisar el professor que el draft està llest             | **Spokesperson** | Group space         | Quan tots hagin escrit i revisat.                                             |
+| ✅ | Donar feedback als companys (comentaris i suggeriments) | Tots             | GDrive (comentaris) | No editar textos directament. Recomanar connectors, paraules i temps verbals. |
+| ✅ | Avisar el professor que el draft està llest             | **Spokesperson** | Group space         | Quan tots hagin escrit i revisat.                                             |
 | ☐ | Incorporar feedback del professor i fer millores finals | Tot el grup      | GDrive              | Revisar cohesió i estil periodístic.                                          |
 
 ---
