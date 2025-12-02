@@ -147,21 +147,21 @@ El grup:
 
 | Estat | Tasca                                                 | Tipus        | Responsable |
 | ----- | ----------------------------------------------------- | ------------ | ----------- |
-| ⬜     | Triar nom de la companyia                             | Grup         | Tots        |
-| ⬜     | Triar lloc + estació                                  | Grup         | Tots        |
-| ⬜     | Triar departaments convidats                          | Grup         | Tots        |
-| ⬜     | Brainstorming d’activitats                            | Grup         | Tots        |
-| ⬜     | Assignar 4 activitats (1 per persona)                 | Grup         | Tots        |
-| ⬜     | Assignar rols: GDrive Admin i Spokesperson            | Grup         | Tots        |
-| ⬜     | Crea document GDrive                                  | GDrive Admin | 1 persona   |
-| ⬜     | Escriure 150–200 paraules sobre la teva activitat     | Individual   | Cada membre |
-| ⬜     | Fer feedback a 2+ companys                            | Individual   | Cada membre |
-| ⬜     | Millora de textos (edició)                            | Grup         | Tots        |
-| ⬜     | Redacció del draft complet                            | Grup         | Tots        |
-| ⬜     | Informar el professor que el draft està llest         | Spokesperson | 1 persona   |
-| ⬜     | Revisar el feedback del professor                     | Grup         | Tots        |
-| ⬜     | Crear versió final                                    | Grup         | Tots        |
-| ⬜     | Enviar text final al Classroom                        | Spokesperson | 1 persona   |
-| ⬜     | Cada membre puja el Word/PDF a CA5 Writing submission | Individual   | Tots        |
-| ⬜     | Activitats post-tasca (resposta a altres grups)       | Individual   | Cada membre |
+| **01.** ⬜     | Triar nom de la companyia                             | Grup         | Tots        |
+| **02.** ⬜     | Triar lloc + estació                                  | Grup         | Tots        |
+| **03.** ⬜     | Triar departaments convidats                          | Grup         | Tots        |
+| **04.** ⬜     | Brainstorming d’activitats                            | Grup         | Tots        |
+| **05.** ⬜     | Assignar 4 activitats (1 per persona)                 | Grup         | Tots        |
+| **06.** ⬜     | Assignar rols: GDrive Admin i Spokesperson            | Grup         | Tots        |
+| **07.** ⬜     | Crea document GDrive                                  | GDrive Admin | **1 persona   |
+| **08.** ⬜     | Escriure 150–200 paraules sobre la teva activitat     | Individual   | Cada membre |
+| **09.** ⬜     | Fer feedback a 2+ companys                            | Individual   | Cada membre |
+| **10.** ⬜     | Millora de textos (edició)                            | Grup         | Tots        |
+| **11.** ⬜     | Redacció del draft complet                            | Grup         | Tots        |
+| **12.** ⬜     | Informar el professor que el draft està llest         | Spokesperson | **1 persona   |
+| **13.** ⬜     | Revisar el feedback del professor                     | Grup         | Tots        |
+| **14.** ⬜     | Crear versió final                                    | Grup         | Tots        |
+| **15.** ⬜     | Enviar text final al Classroom                        | Spokesperson | **1 persona   |
+| **16.** ⬜     | Cada membre puja el Word/PDF a CA5 Writing submission | Individual   | Tots        |
+| **17.** ⬜     | Activitats post-tasca (resposta a altres grups)       | Individual   | Cada membre |
 
