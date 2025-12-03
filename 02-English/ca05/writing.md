@@ -160,7 +160,7 @@ El grup:
 | **11.** ✅     | Redacció del draft complet                            | Grup         | Tots        |
 | **12.** ✅     | Informar el professor que el draft està llest         | Spokesperson | **1 persona   |
 | **13.** ✅     | Revisar el feedback del professor                     | Grup         | Tots        |
-| **14.** ⬜     | Crear versió final                                    | Grup         | Tots        |
+| **14.** ✅     | Crear versió final                                    | Grup         | Tots        |
 | **15.** ⬜     | Enviar text final al Classroom                        | Spokesperson | **1 persona   |
 | **16.** ⬜     | Cada membre puja el Word/PDF a CA5 Writing submission | Individual   | Tots        |
 | **17.** ⬜     | Activitats post-tasca (resposta a altres grups)       | Individual   | Cada membre |
