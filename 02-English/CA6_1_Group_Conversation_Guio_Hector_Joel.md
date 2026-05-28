@@ -271,15 +271,15 @@
 
 # 8. Possible agreement about food
 
-## Héctor
+## Joel
 
 > So, maybe we can choose the Chinese restaurant because it has vegan options and different dishes for everyone.
 
-## Joel
+## Hèctor
 
 > Yes, I think Chinese food is okay.
 
-## Héctor
+## Joel
 
 > Great. Then we can choose Chinese food and include tofu with vegetables and fried rice.
 
@@ -287,50 +287,50 @@
 
 # 9. Activity after the meal
 
-## 9.1 Héctor’s proposal: theatre
+## 9.1 Joel's proposal: theatre
 
-## Héctor
+## Joel
 
 > Now we have to decide what to do after the meal.  
 > After dinner, I would suggest going to the theatre to see *Les Misérables*.  
 > I think it could be a great activity because it is a very famous musical.
 
-## Héctor
+## Joel
 
 > The story is centred on redemption and Christianity, and it is a great musical full of deep emotions.  
 > I think it could give us a lot to talk about after the show.
 
 ---
 
-## 9.2 Questions to Joel
-
-## Héctor
-
-> What do you think, Joel?  
-> Would Harry Potter enjoy a musical like *Les Misérables*?
+## 9.2 Questions to Hèctor
 
 ## Joel
+
+> What do you think, Hèctor?  
+> Would Harry Potter enjoy a musical like *Les Misérables*?
+
+## Hèctor
 
 > Yes, maybe. It could be interesting.
 
-## Héctor
+## Joel
 
 > Would you prefer going to the theatre, or doing something more relaxed?
 
-## Joel
+## Hèctor
 
 > I think the theatre is a good idea.
 
-## Héctor
+## Joel
 
 > Great.  
 > Do you think Spiderman would enjoy the theatre, or would he prefer something more active?
 
-## Joel
+## Hèctor
 
 > Maybe Spiderman would prefer something more active, but he could enjoy it too.
 
-## Héctor
+## Joel
 
 > Yes, as an action hero, Spiderman would probably prefer something with more action.  
 > But I think he could still enjoy the musical because the story is intense and emotional.
