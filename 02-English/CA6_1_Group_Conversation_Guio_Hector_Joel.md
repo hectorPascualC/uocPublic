@@ -14,17 +14,17 @@
 
 # 1. Opening / Introduction
 
-## Héctor
+## Joel
 
-> Hi Joel. I’m Héctor.  
+> Hi Hèctor. I’m Joel.  
 > Today we are going to talk about a dinner party with fictional characters.  
 > We have to decide three things: the guests, the food, and an activity after the meal.
 
-## Héctor
-
-> Is that okay for you, Joel?
-
 ## Joel
+
+> Is that okay for you, Hèctor?
+
+## Hèctor
 
 > Yes, that’s fine.
 
