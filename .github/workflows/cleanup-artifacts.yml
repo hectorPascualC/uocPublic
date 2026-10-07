@@ -1,0 +1,58 @@
+name: Cleanup Actions artifacts
+
+on:
+  push:
+    branches: ["maintenance/artifact-cleanup"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Delete repository Actions artifacts
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+
+          deleted=0
+          bytes=0
+
+          while true; do
+            response="$(
+              curl --fail --silent --show-error \
+                -H "Authorization: Bearer ${GH_TOKEN}" \
+                -H "Accept: application/vnd.github+json" \
+                -H "X-GitHub-Api-Version: 2022-11-28" \
+                "https://api.github.com/repos/${REPO}/actions/artifacts?per_page=100&page=1"
+            )"
+
+            count="$(python3 -c 'import json,sys; print(len(json.load(sys.stdin).get("artifacts", [])))' <<<"${response}")"
+            if [[ "${count}" -eq 0 ]]; then
+              break
+            fi
+
+            while IFS=$'\t' read -r artifact_id artifact_size artifact_name; do
+              [[ -n "${artifact_id}" ]] || continue
+              echo "Deleting artifact ${artifact_id} (${artifact_name}, ${artifact_size} bytes)"
+              curl --fail --silent --show-error \
+                -X DELETE \
+                -H "Authorization: Bearer ${GH_TOKEN}" \
+                -H "Accept: application/vnd.github+json" \
+                -H "X-GitHub-Api-Version: 2022-11-28" \
+                "https://api.github.com/repos/${REPO}/actions/artifacts/${artifact_id}"
+              deleted=$((deleted + 1))
+              bytes=$((bytes + artifact_size))
+            done < <(
+              python3 -c 'import json,sys; d=json.load(sys.stdin); [print("{}\t{}\t{}".format(a["id"], a.get("size_in_bytes", 0), a.get("name", ""))) for a in d.get("artifacts", [])]' <<<"${response}"
+            )
+          done
+
+          echo "Deleted ${deleted} artifacts totaling ${bytes} bytes."
